@@ -1,1 +1,3 @@
 .DS_Store
+myerp/documents/*
+myerp/htdocs/conf/*
